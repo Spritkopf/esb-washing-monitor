@@ -1,0 +1,3 @@
+[submodule "firmware/esb-home-fw"]
+	path = firmware/esb-home-fw
+	url = https://github.com/spritkopf/esb-home-fw
